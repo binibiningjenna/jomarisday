@@ -17,6 +17,9 @@
     height:240px;
     object-fit:fill;
   }
+.header #audio {
+    margin:10px 80px 0 80px;
+  }
   .greetings {
     display:flex;
     flex-direction:row;
